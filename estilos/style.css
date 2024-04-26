@@ -22,8 +22,8 @@ body {
 }
 
 main {
-    height: 90vh;
-    width: 90vw;
+    height: 100vh;
+    width: 100vw;
     position: relative;
 
 }
@@ -34,7 +34,7 @@ section#telefone {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 627px;
+    height: 620px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
